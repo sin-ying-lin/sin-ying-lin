@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eileen Lin.
 - 👀 I’m interested in predicting disease course and treatment response in mental problems. 
-- 🌱 I’m currently learning how to combine multivariate modeling with machine learning. 
-- 💞️ I’m looking to collaborate on mental health-related projects.
+- 🌱 I’m currently working on combining multivariate modeling and machine learning. 
+- 💞️ I’m looking to collaborate on mental-health-related projects.
 - 📫 You can reach me at eileen.sy.lin@gmail.com.
 
 <!---
