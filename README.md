@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sin-Ying Lin.
+- 👋 Hi, My name is Sin-Ying Lin. 
 - 👀 I’m interested in predicting disease course and treatment response in mental problems. 
 - 🌱 I’m currently working on combining multivariate modeling and machine learning. 
 - 💞️ I’m looking to collaborate on mental-health-related projects.
