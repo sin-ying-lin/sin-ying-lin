@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Eileen Lin.
+- 👋 Hi, I’m Sin-Ying Lin.
 - 👀 I’m interested in predicting disease course and treatment response in mental problems. 
 - 🌱 I’m currently working on combining multivariate modeling and machine learning. 
 - 💞️ I’m looking to collaborate on mental-health-related projects.
-- 📫 You can reach me at eileen.sy.lin@gmail.com.
+- 📫 You can reach me at sinyinglin.pys@gmail.com
 
-<!---
-eileen-catfeine/eileen-catfeine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
