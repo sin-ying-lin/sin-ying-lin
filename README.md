@@ -1,5 +1,5 @@
 Hi, my name is Elaina. I am a researcher in clinical psychology.<br>
-I study quantitative nosology of mental disorders, risk factors identification, and prognosis and treatment course prediction. 
+I study quantitative nosology of mental disorders, risk factors identification, and treatment course prediction. 
 You can find my publications under my legal name: [Sin-Ying Lin](https://orcid.org/0000-0001-9862-7669). <br>
 <br>
 Yes, I provide therapy (under supervision). <br>
