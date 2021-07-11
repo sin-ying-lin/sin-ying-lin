@@ -6,13 +6,13 @@ Yes, I provide therapy (under supervision). <br>
 No, Freud is not my friend, although I have read the entire Freud book colelction in high school. <br>
 It has been almost a century since his debut. Things have changed *a lot*. <br>
 <br>
-Yes, I am familiar with R and Python. <br>
-No, I don't know how to use Excel and SPSS. <br>
+Yes, I use R and Python. <br>
+No, I am not familiar with Excel and SPSS. <br>
  <br>
 Yes, I know stats. <br>
 No, I don't do qualitative research. <br>
  <br>
-Yes, I know machine learning. <br>
+Yes, I apply machine learning. <br>
 No, it is not just cross validation. <br>
 <br>
 Yes, HPC is often required in my research. <br>
