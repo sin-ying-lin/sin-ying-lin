@@ -3,7 +3,7 @@ I study quantitative nosology of mental disorders, risk factors identification, 
 You can find my publications under my legal name: [Sin-Ying Lin](https://orcid.org/0000-0001-9862-7669). <br>
 <br>
 Yes, I provide therapy (under supervision). <br>
-No, Freud is not my friend, although I have read the entire Freud book colelction in high school. <br>
+No, Freud is not my friend, although I have read his entire book colelction in high school. <br>
 It has been almost a century since his debut. Things have changed *a lot*. <br>
 <br>
 Yes, I use R and Python. <br>
