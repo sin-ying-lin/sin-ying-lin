@@ -4,7 +4,7 @@ You can find my publications under my legal name: [Sin-Ying Lin](https://orcid.o
 <br>
 Yes, I provide therapy (under supervision). <br>
 No, Freud is not my friend, although I have read the entire Freud book colelction in high school. <br>
-It has been almost a century since his first publication. Things have changed *a lot*. <br>
+It has been almost a century since his debut. Things have changed *a lot*. <br>
 <br>
 Yes, I am familiar with R and Python. <br>
 No, I don't know how to use Excel and SPSS. <br>
