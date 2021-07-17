@@ -4,7 +4,7 @@ You can find my publication [here](https://orcid.org/0000-0001-9862-7669). <br>
 I also post my two cents in quantitative modeling on my [website](https://sin-ying-lin.github.io/) from time to time. <br>
 <br>
 Yes, I provide therapy (under supervision). <br>
-No, Freud is not my friend, although I have read his entire book colelction in high school. <br>
+No, Freud is not my friend, although I have read his entire book collection in high school. <br>
 It has been almost a century since his debut. Things have changed *a lot*. <br>
 <br>
 Yes, I use R and Python. <br>
