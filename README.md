@@ -1,4 +1,4 @@
-Hi, my name is Elaina. I am a researcher in clinical psychology.<br>
+Hi, my name is Sin-Ying. I am a researcher in clinical psychology.<br>
 I study quantitative nosology of mental disorders, risk factors identification, and treatment course prediction. <br>
 You can find my publication [here](https://orcid.org/0000-0001-9862-7669). <br>
 I also post my two cents in quantitative modeling on my [website](https://sin-ying-lin.github.io/) from time to time. <br>
